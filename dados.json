@@ -1,3 +1,5 @@
 {
-  "jogadores": {}
+  "saldo": 0,
+  "apostas": []
 }
+
